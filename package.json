@@ -1,0 +1,19 @@
+{
+  "name": "spotify-visualize",
+  "version": "1.0.0",
+  "description": "A simple visualization of spotify song data made by requests to spotify's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliks93/spotify-visualizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliks93/spotify-visualizer/issues"
+  },
+  "homepage": "https://github.com/eliks93/spotify-visualizer#readme"
+}
